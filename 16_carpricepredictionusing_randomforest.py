@@ -11,7 +11,7 @@ Original file is located at
 
 import pandas as pd
 
-"""# *Load Dataset from Local directory*"""
+
 
 from google.colab import files
 uploaded = files.upload()
